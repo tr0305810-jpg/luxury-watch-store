@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: black;
+  color: gold;
+  text-align: center;
+}
+
+.header {
+  padding: 20px;
+  background: black;
+}
+
+.hero {
+  padding: 80px 20px;
+}
